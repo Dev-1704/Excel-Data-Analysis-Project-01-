@@ -7,3 +7,15 @@ The Vrinda Store wants to create and annual sales report for 2022. So that, the 
 ## Dataset used 
 
 - <a href = "https://github.com/Dev-1704/Excel-Data-Analysis-Project-01-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx" > Dataset </a>
+
+## Questions (KPIs)
+• Compare the sales and orders using single chart.
+• Which month got the highest sales and orders?
+• Who purchased more - Men or Women?
+• List top 5 states contributing maxinmum to the sales.
+• Relation between age and gender based on number of orders.
+• Which channel is contributing maximum to the sales 
+• Highest selling category?
+• Percentage of Total Orders Delivered
+
+Interaction of the Dashboard <a heref = "https://github.com/Dev-1704/Excel-Data-Analysis-Project 01-/blob/main/Sales%20Report%20Image.png"> View Dashboard </a>
