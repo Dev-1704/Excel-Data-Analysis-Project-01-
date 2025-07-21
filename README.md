@@ -9,7 +9,7 @@ The Vrinda Store wants to create and annual sales report for 2022. So that, the 
 - <a href = "https://github.com/Dev-1704/Excel-Data-Analysis-Project-01-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx" > Dataset </a>
 
 ## Questions (KPIs)
-• Compare the sales and orders using single chart. </n>
+• <Compare the sales and orders using single chart./n>
 • Which month got the highest sales and orders?
 • Who purchased more - Men or Women?
 • List top 5 states contributing maxinmum to the sales.
