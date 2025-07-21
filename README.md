@@ -18,23 +18,23 @@ The Vrinda Store wants to create and annual sales report for 2022. So that, the 
 - Highest selling category? 
 - Percentage of Total Orders Delivered 
 
-• Interaction of the Dashboard <a href = "https://github.com/Dev-1704/Excel-Data-Analysis-Project-01-/blob/main/Sales%20Report%20Image.png"> View Dashboard </a>
+- Interaction of the Dashboard <a href = "https://github.com/Dev-1704/Excel-Data-Analysis-Project-01-/blob/main/Sales%20Report%20Image.png"> View Dashboard </a>
 
 ## Process of the Analysis
-• Verified the data for any missing values , errors and sort them out.
-• Made sure data is consistent and clea with respect to data type, and data format and values used.
-• Created pivot tables according to the question asked.
-• Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
+- Verified the data for any missing values , errors and sort them out.
+- Made sure data is consistent and clea with respect to data type, and data format and values used.
+- Created pivot tables according to the question asked.
+- Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 
 ## Dashboard 
 <img width="1484" height="635" alt="Sales Report Image" src="https://github.com/user-attachments/assets/3c88988e-a890-4697-bc8d-ec45eaa168ec" />
 
 ## Project Insights
-• Women customers are more likely to buy products compated to men (~65%)
-• UP, Telangana, Tamil Nadu, Maharashtra, Karnataka are the top 5 states of most product buyers.
-• The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-• The maximum number of products cutomer orders from Amazon, Flipkart and Myntra channels.
-• More than 90% of the products delivered.
+- Women customers are more likely to buy products compated to men (~65%)
+- UP, Telangana, Tamil Nadu, Maharashtra, Karnataka are the top 5 states of most product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products cutomer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered.
 
 ## Final Conclusion
 
